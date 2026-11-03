@@ -1,0 +1,8 @@
+requests
+pytesseract
+pdf2image
+pypdf
+python-dotenv
+presidio-analyzer
+presidio-anonymizer
+jinja2

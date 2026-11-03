@@ -1,0 +1,7 @@
+files
+pending
+processed
+logs
+results
+
+.env*
